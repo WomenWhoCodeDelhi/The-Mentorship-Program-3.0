@@ -1,6 +1,6 @@
 # The-Mentorship-Program-3.0
 
-### WEEK-1 BLOGS
+
 
 | Mentee  | Raksha Jain | Aishwarya Suresh | Sneha Sai |
 | ------------- | ------------- | ------------- | ------------- |
