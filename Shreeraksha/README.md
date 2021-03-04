@@ -63,7 +63,7 @@
 - Learning Resources
   - HackerEarth : [Basics of Greedy Algorithm](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
   - Love Babbar Youtube : [Greedy Algorithm](https://www.youtube.com/watch?v=sq_cXYjSglQ)
-  - GeeksForGeeks : [Greedy Algorithm](https://www.geeksforgeeks.org/greedy-algorithms/)
+  - GeeksForGeeks : [Greedy Algorithm](https://www.geeksforgeeks.org/greedy-algorithms/) | [Video Playlist](https://www.youtube.com/watch?v=HzeK7g8cD0Y&list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
 - Practice Problems
   - Easy : [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
   - Medium : [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
