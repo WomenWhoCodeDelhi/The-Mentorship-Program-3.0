@@ -58,7 +58,16 @@
   - Medium : [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
   - Hard : [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
-  
+
+*4. Greedy Algorithm*
+- Learning Resources
+  - HackerEarth : [Basics of Greedy Algorithm](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
+  - Love Babbar Youtube : [Greedy Algorithm](https://www.youtube.com/watch?v=sq_cXYjSglQ)
+  - GeeksForGeeks : [Greedy Algorithm](https://www.geeksforgeeks.org/greedy-algorithms/)
+- Practice Problems
+  - Easy : [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+  - Medium : [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+  - Hard : [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | [Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)
 
 
 
